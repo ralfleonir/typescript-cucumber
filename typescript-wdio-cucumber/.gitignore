@@ -1,0 +1,6 @@
+/drivers
+/node_modules
+/screenshots
+/reports
+/js
+.DS_Store
